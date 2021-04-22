@@ -1,2 +1,2 @@
-ru/stqa/isna/front/MoveToMgu.java
- ru.stqa.isna.front.MoveToMgu
+ru/stqa/isna/front/MainTest.java
+ ru.stqa.isna.front.MainTest
