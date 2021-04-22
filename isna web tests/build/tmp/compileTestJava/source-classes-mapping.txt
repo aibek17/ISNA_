@@ -1,2 +1,4 @@
-ru/stqa/isna/front/MainTest.java
- ru.stqa.isna.front.MainTest
+ru/stqa/isna/front/GoToMgu.java
+ ru.stqa.isna.front.GoToMgu
+ru/stqa/isna/front/GoToExcise.java
+ ru.stqa.isna.front.GoToExcise
