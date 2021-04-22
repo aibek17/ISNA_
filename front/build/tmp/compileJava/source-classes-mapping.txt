@@ -1,2 +1,2 @@
-MyFirstProgram.java
- MyFirstProgram
+ru/stqa/isna/front/Square.java
+ ru.stqa.isna.front.Square

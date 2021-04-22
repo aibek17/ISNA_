@@ -1,0 +1,6 @@
+ru/stqa/isna/front/GoToMonitoring.java
+ ru.stqa.isna.front.GoToMonitoring
+ru/stqa/isna/front/GoToMguTestsSecond.java
+ ru.stqa.isna.front.GoToMguTestsSecond
+ru/stqa/isna/front/SquareTests.java
+ ru.stqa.isna.front.SquareTests

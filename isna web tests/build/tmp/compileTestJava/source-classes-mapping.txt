@@ -1,0 +1,2 @@
+ru/stqa/isna/front/MoveToMgu.java
+ ru.stqa.isna.front.MoveToMgu
