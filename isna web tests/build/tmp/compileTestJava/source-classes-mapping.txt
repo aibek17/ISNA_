@@ -4,3 +4,5 @@ ru/stqa/isna/front/GoToMgu.java
  ru.stqa.isna.front.GoToMgu
 ru/stqa/isna/front/TestBase.java
  ru.stqa.isna.front.TestBase
+ru/stqa/isna/front/CreateDoc.java
+ ru.stqa.isna.front.CreateDoc
